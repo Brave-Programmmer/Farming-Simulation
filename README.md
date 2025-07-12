@@ -71,9 +71,4 @@ This project is provided as-is under the MIT License. Feel free to use, modify, 
 
 ---
 
-## 👤 Author
-
-Created by **Sandeep Pujari**  
-[GitHub](https://github.com/your-username) | [Email](mailto:your-email@example.com)
-
 
